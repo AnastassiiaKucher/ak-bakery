@@ -18,7 +18,7 @@
 
 1. Wride down into the terminal this combination:
 
- git clone https://github.com/AnastassiiaKucher/lawyer.git
+ git clone https://github.com/AnastassiiaKucher/ak-bakery.git
 
 2. Open new terminal
 3. code .
